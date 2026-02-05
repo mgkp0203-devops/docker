@@ -1,3 +1,2 @@
 FROM almalinux:9
-LABEL course= "docker" \
-    rainer="sivakumar"
+LABEL course= "docker" 
